@@ -1,5 +1,5 @@
 {
-  "name": "aldi-web-scraper",
+  "name": "beginner-web-scraper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahonyodhran/aldi-web-scraper.git"
+    "url": "git+https://github.com/mahonyodhran/beginner-web-scraper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mahonyodhran/aldi-web-scraper/issues"
+    "url": "https://github.com/mahonyodhran/beginner-web-scraper/issues"
   },
-  "homepage": "https://github.com/mahonyodhran/aldi-web-scraper#readme",
+  "homepage": "https://github.com/mahonyodhran/beginner-web-scraper#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.12",
